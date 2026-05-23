@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ba771adaffc033a40b5e08a519125245
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slashPrefab: {instanceID: 0}
+  - stat: {instanceID: 0}
+  - attackSound: {instanceID: 0}
+  - wallChecker: {instanceID: 0}
+  - boulderPrefab: {instanceID: 0}
+  - boulderSpawnZoneLeft: {instanceID: 0}
+  - boulderSpawnZoneRight: {instanceID: 0}
+  - wallCrashSound: {instanceID: 0}
+  - petPrefab: {instanceID: 0}
+  - summonSound: {instanceID: 0}
+  - shockwavePrefab: {instanceID: 0}
+  - groundChecker: {instanceID: 0}
+  - groundCrashSound: {instanceID: 0}
+  - ballPrefab: {instanceID: 0}
+  - ballHitSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

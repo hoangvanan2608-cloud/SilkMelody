@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|d:\\l\u00E0m vi\u1EC7c\\da\\silkmelody-main\\silkmelody-main\\assets\\enemy\\crawling\\crawlingai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\crawling\\crawlingai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\volumeSetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\volumeSetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\assets\\player\\script\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\script\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\assets\\player\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\assets\\scene\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|solutionrelative:assets\\scene\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93168462-EF23-7D9B-3D17-758D6C5DF84F}|AstarPathfindingProject.csproj|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\assets\\astarpathfindingproject\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93168462-EF23-7D9B-3D17-758D6C5DF84F}|AstarPathfindingProject.csproj|solutionrelative:assets\\astarpathfindingproject\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\assets\\player\\inputmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\inputmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\assets\\misc\\script\\inputactionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9E9B3F-9F5F-8F8A-64A1-8330A7AEFF84}|Assembly-CSharp.csproj|solutionrelative:assets\\misc\\script\\inputactionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrawlingAI.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Enemy\\Crawling\\CrawlingAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\Crawling\\CrawlingAI.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Enemy\\Crawling\\CrawlingAI.cs",
+              "RelativeToolTip": "Assets\\Enemy\\Crawling\\CrawlingAI.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:44:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "volumeSetings.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\volumeSetings.cs",
+              "RelativeDocumentMoniker": "Assets\\volumeSetings.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\volumeSetings.cs",
+              "RelativeToolTip": "Assets\\volumeSetings.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:56:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Player\\Script\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\Script\\PauseMenu.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Player\\Script\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Player\\Script\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:28:18.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\AstarPathfindingProject\\Readme.txt",
+              "RelativeDocumentMoniker": "Assets\\AstarPathfindingProject\\Readme.txt",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\AstarPathfindingProject\\Readme.txt",
+              "RelativeToolTip": "Assets\\AstarPathfindingProject\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-26T10:41:04.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Scene\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scene\\Script\\MainMenu.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Scene\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scene\\Script\\MainMenu.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:51:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputMaster.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Player\\InputMaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\InputMaster.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Player\\InputMaster.cs",
+              "RelativeToolTip": "Assets\\Player\\InputMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:30:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputActionExtensions.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Misc\\Script\\InputActionExtensions.cs",
+              "RelativeDocumentMoniker": "Assets\\Misc\\Script\\InputActionExtensions.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Misc\\Script\\InputActionExtensions.cs",
+              "RelativeToolTip": "Assets\\Misc\\Script\\InputActionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:30:49.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Player\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\Script\\Player.cs",
+              "ToolTip": "D:\\l\u00E0m vi\u1EC7c\\da\\SilkMelody-main\\SilkMelody-main\\Assets\\Player\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Player\\Script\\Player.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAMBdwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:19:36.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
